@@ -12,4 +12,4 @@ Save the scripts into bookmarklets and start using them in web pages.
 You are free to fork this project and make your own set of spells, but if you have a particularly witty one in mind that you think would fit well in this grimoire go ahead and create a pull request.
 
 ## License
-MIT © 2014 Alessandro Mingione
+[MIT](https://github.com/datadatadata/Shapeshifter/blob/master/license.txt) © 2014 Alessandro Mingione
