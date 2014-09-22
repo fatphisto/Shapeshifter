@@ -1,17 +1,1 @@
-javascript:(function(){
-  document.body.innerHTML = clean(document.body.innerHTML);
-
-  function clean (text) {
-    var dictionary = { people: 'bears', humans: 'bears', person: 'bear', human: 'bear', mankind: 'bearkind'},
-          regexp = RegExp ('\\b(' + Object.keys (dictionary).join ('|') + ')\\b', 'ig');
-
-    return text.replace (regexp, function (_, word) {
-      _ = dictionary[word.toLowerCase ()];
-      if (/^[A-Z][a-z]/.test (word))
-        _ = _.slice (0,1).toUpperCase () + _.slice (1);
-      else if (/^[A-Z][A-Z]/.test (word))
-        _ = _.toUpperCase ();
-      return _;
-    });
-  }
-}
+javascript:!function(){function%20e(e){var%20n={people:%22bears%22,humans:%22bears%22,person:%22bear%22,human:%22bear%22,mankind:%22bearkind%22},r=RegExp(%22\\b(%22+Object.keys(n).join(%22|%22)+%22)\\b%22,%22ig%22);return%20e.replace(r,function(e,r){return%20e=n[r.toLowerCase()],/^[A-Z][a-z]/.test(r)%3Fe=e.slice(0,1).toUpperCase()+e.slice(1):/^[A-Z][A-Z]/.test(r)%26%26(e=e.toUpperCase()),e})}document.body.innerHTML=e(document.body.innerHTML)}();
