@@ -6,7 +6,7 @@ Shapeshifter is a collection of ~~forbidden spells~~ bookmarklets that transform
 Inspired by [@A_single_bear](http://twitter.com/A_single_bear), this spell turns humans into bears.
 
 ## Installation
-Save the scripts into bookmarklets and start using them in web pages.
+Save the scripts into bookmarks and start using them. I'll make this easier when I will redesign my website.
 
 ## Contibution
 You are free to fork this project and make your own set of spells, but if you have a particularly witty one in mind that you think would fit well in this grimoire go ahead and create a pull request.
