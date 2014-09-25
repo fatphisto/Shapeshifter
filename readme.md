@@ -6,8 +6,11 @@ Shapeshifter is a collection of ~~forbidden spells~~ bookmarklets that transform
 Inspired by [@A_single_bear](http://twitter.com/A_single_bear), this spell turns humans into bears. Sometimes I wish I was a bear.
 
 ### Humanize
-After reading [Julie Zhuo](http://www.juliezhuo.com/)'s article [The Death of “Users” and “Product Design”](https://medium.com/the-year-of-the-looking-glass/the-death-of-users-and-product-design-a857f1ad2f3b) I was skeptical of the suggested approach, but still open to give it a try. I've done that quite literally for the sole purpose of having fun.
+After reading [Julie Zhuo](http://www.juliezhuo.com/)'s article [The Death of “Users” and “Product Design”](https://medium.com/the-year-of-the-looking-glass/the-death-of-users-and-product-design-a857f1ad2f3b) I was skeptical of the suggested approach, but still open to give it a try, which I've done quite literally for the sole purpose of having fun.
 Take it for a ride, hilarious things might happen.
+
+### De-humanize
+The inverse of the Humanize spell. It proves [Julie Zhuo](http://www.juliezhuo.com/)'s point much better than the original by making you put the bad-designer's glasses on.
 
 ## Installation
 Save the scripts into bookmarks and start using them. I'll make this easier when I will redesign my website.
